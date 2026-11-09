@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32d7b5cbf00f9c542864bdb61080518b, type: 3}
+  m_Name: MON_004_Blubi
+  m_EditorClassIdentifier: Assembly-CSharp::MonsterData
+  id: MON_004
+  displayName: Blubi
+  element: 1
+  stage: 1
+  baseHP: 48
+  baseATK: 10
+  baseDEF: 12
+  baseSPD: 8
+  evolvesTo: {fileID: 11400000, guid: d73cdcb8b3246c84194ceb577539a450, type: 2}
+  evolveLevel: 5
+  strongAgainst: 0
+  frames:
+  - {fileID: 3550268219214689552, guid: cbf3d9f16d3751343b8fdaa6932f40ad, type: 3}
+  - {fileID: -2294804109517415057, guid: cbf3d9f16d3751343b8fdaa6932f40ad, type: 3}
+  portrait: {fileID: 3550268219214689552, guid: cbf3d9f16d3751343b8fdaa6932f40ad, type: 3}
+  customSkillName: 

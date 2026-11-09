@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32d7b5cbf00f9c542864bdb61080518b, type: 3}
+  m_Name: MON_005_Finnox
+  m_EditorClassIdentifier: Assembly-CSharp::MonsterData
+  id: MON_005
+  displayName: Finnox
+  element: 1
+  stage: 2
+  baseHP: 86
+  baseATK: 18
+  baseDEF: 21
+  baseSPD: 14
+  evolvesTo: {fileID: 11400000, guid: 69acb7264185c3145b3da8cc6f316c66, type: 2}
+  evolveLevel: 9
+  strongAgainst: 0
+  frames:
+  - {fileID: -82409557241251320, guid: 307268b5df217ed4c99201d6200fef31, type: 3}
+  - {fileID: 577759283797168821, guid: 307268b5df217ed4c99201d6200fef31, type: 3}
+  portrait: {fileID: -82409557241251320, guid: 307268b5df217ed4c99201d6200fef31, type: 3}
+  customSkillName: 

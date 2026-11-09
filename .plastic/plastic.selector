@@ -1,0 +1,4 @@
+repository "Proyek Gim 2D 2026-11-09_18-13-38/Proyek Gim 2D@18968411985233@cloud"
+  path "/"
+    br "/main"
+    co "/main"

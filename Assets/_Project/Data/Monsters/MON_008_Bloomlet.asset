@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32d7b5cbf00f9c542864bdb61080518b, type: 3}
+  m_Name: MON_008_Bloomlet
+  m_EditorClassIdentifier: Assembly-CSharp::MonsterData
+  id: MON_008
+  displayName: Bloomlet
+  element: 2
+  stage: 2
+  baseHP: 93
+  baseATK: 16
+  baseDEF: 19
+  baseSPD: 12
+  evolvesTo: {fileID: 11400000, guid: d41bf68737caec94ab26df1f252b3b28, type: 2}
+  evolveLevel: 9
+  strongAgainst: 1
+  frames:
+  - {fileID: 6955321418916534307, guid: 101a49c7600d16947a7140d29138a8cb, type: 3}
+  - {fileID: -8243668992453361424, guid: 101a49c7600d16947a7140d29138a8cb, type: 3}
+  portrait: {fileID: 6955321418916534307, guid: 101a49c7600d16947a7140d29138a8cb, type: 3}
+  customSkillName: 

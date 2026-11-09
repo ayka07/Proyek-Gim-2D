@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: a8cd9b3a888a9164f86aa22c5f89fac7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2700042031433159083
+    second: NPC_Merchant_Walk_16x16_0
+  - first:
+      213: -8592471777181283449
+    second: NPC_Merchant_Walk_16x16_1
+  - first:
+      213: 396672927532047440
+    second: NPC_Merchant_Walk_16x16_2
+  - first:
+      213: 1958943900099417703
+    second: NPC_Merchant_Walk_16x16_3
+  - first:
+      213: -4922551326391384726
+    second: NPC_Merchant_Walk_16x16_4
+  - first:
+      213: -5517214665832095844
+    second: NPC_Merchant_Walk_16x16_5
+  - first:
+      213: 8136761100962439019
+    second: NPC_Merchant_Walk_16x16_6
+  - first:
+      213: -4131805193796807276
+    second: NPC_Merchant_Walk_16x16_7
+  - first:
+      213: -1922468076860086054
+    second: NPC_Merchant_Walk_16x16_8
+  - first:
+      213: -290154630455276140
+    second: NPC_Merchant_Walk_16x16_9
+  - first:
+      213: -748054032867113298
+    second: NPC_Merchant_Walk_16x16_10
+  - first:
+      213: -6299273721444667747
+    second: NPC_Merchant_Walk_16x16_11
+  - first:
+      213: 2849948950073389046
+    second: NPC_Merchant_0
+  - first:
+      213: -3437000405278419384
+    second: NPC_Merchant_1
+  - first:
+      213: -6282671293135965301
+    second: NPC_Merchant_2
+  - first:
+      213: 3332908365725287439
+    second: NPC_Merchant_3
+  - first:
+      213: -8859565898632811586
+    second: NPC_Merchant_4
+  - first:
+      213: 7052106694600320954
+    second: NPC_Merchant_5
+  - first:
+      213: 668910584385981696
+    second: NPC_Merchant_6
+  - first:
+      213: 6241842228536990255
+    second: NPC_Merchant_7
+  - first:
+      213: 3336123602958787684
+    second: NPC_Merchant_8
+  - first:
+      213: -4164512462479967746
+    second: NPC_Merchant_9
+  - first:
+      213: 8705123044971745746
+    second: NPC_Merchant_10
+  - first:
+      213: -7794587075761744039
+    second: NPC_Merchant_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NPC_Merchant_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff2f1d687d0d8720800000000000000
+      internalID: 2849948950073389046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Merchant_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846918667525d40d0800000000000000
+      internalID: -3437000405278419384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Merchant_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b833614feb77fc8a0800000000000000
+      internalID: -6282671293135965301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Merchant_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04cbf7008ed04e20800000000000000
+      internalID: 3332908365725287439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Merchant_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebba3d351cf7c0580800000000000000
+      internalID: -8859565898632811586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Merchant_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab76ec1dcad1ed160800000000000000
+      internalID: 7052106694600320954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Merchant_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d43d8e1a2784900800000000000000
+      internalID: 668910584385981696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Merchant_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2adaf7af6a7f9650800000000000000
+      internalID: 6241842228536990255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Merchant_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464a729cdba4c4e20800000000000000
+      internalID: 3336123602958787684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Merchant_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9b13bdafda436c0800000000000000
+      internalID: -4164512462479967746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Merchant_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d19b95a94fcec870800000000000000
+      internalID: 8705123044971745746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_Merchant_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957de522a5014d390800000000000000
+      internalID: -7794587075761744039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NPC_Merchant_0: 2849948950073389046
+      NPC_Merchant_1: -3437000405278419384
+      NPC_Merchant_10: 8705123044971745746
+      NPC_Merchant_11: -7794587075761744039
+      NPC_Merchant_2: -6282671293135965301
+      NPC_Merchant_3: 3332908365725287439
+      NPC_Merchant_4: -8859565898632811586
+      NPC_Merchant_5: 7052106694600320954
+      NPC_Merchant_6: 668910584385981696
+      NPC_Merchant_7: 6241842228536990255
+      NPC_Merchant_8: 3336123602958787684
+      NPC_Merchant_9: -4164512462479967746
+      NPC_Merchant_Walk_16x16_0: 2700042031433159083
+      NPC_Merchant_Walk_16x16_1: -8592471777181283449
+      NPC_Merchant_Walk_16x16_10: -748054032867113298
+      NPC_Merchant_Walk_16x16_11: -6299273721444667747
+      NPC_Merchant_Walk_16x16_2: 396672927532047440
+      NPC_Merchant_Walk_16x16_3: 1958943900099417703
+      NPC_Merchant_Walk_16x16_4: -4922551326391384726
+      NPC_Merchant_Walk_16x16_5: -5517214665832095844
+      NPC_Merchant_Walk_16x16_6: 8136761100962439019
+      NPC_Merchant_Walk_16x16_7: -4131805193796807276
+      NPC_Merchant_Walk_16x16_8: -1922468076860086054
+      NPC_Merchant_Walk_16x16_9: -290154630455276140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
